@@ -89,6 +89,19 @@
    - **CLI Interface:** Provides a command-line option for developers to test and debug core functionalities.
 
 ---
+## Interface
+
+### Main Page
+![250315_23h29m41s_screenshot](https://github.com/user-attachments/assets/aa62f88a-8faf-4e6d-a35a-dbea77b86a6a)
+
+### Processing
+![250315_23h29m17s_screenshot](https://github.com/user-attachments/assets/3591b06a-b969-45c1-8d4d-9fd239793b35)
+
+### Output
+![250315_23h30m59s_screenshot](https://github.com/user-attachments/assets/80795bbe-4736-4784-83a2-73dd5aaaccc6)
+
+
+---
 
 ## Installation
 
@@ -106,7 +119,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/VoxVoyage.git
+   git clone https://github.com/buzzgrewal/VoxVoyage.git
    cd VoxVoyage
    ```
 
@@ -130,7 +143,7 @@
 
 To launch the interactive web interface:
 ```bash
-python your_gradio_interface_script.py
+python VoxVoyage_interface.py
 ```
 - **Start Story:** Upload a voice sample, adjust parameters, and click "Start Story" to begin.
 - **Advance Story:** Choose an option from the available radio buttons to generate the next audio segment.
@@ -140,19 +153,18 @@ python your_gradio_interface_script.py
 
 For testing and development, run the CLI version:
 ```bash
-python your_cli_script.py
+python VoxVoyage_cli.py
 ```
 - Follow on-screen prompts to upload your voice sample, adjust parameters, and navigate through the story.
 - Listen to individual segments or output the full cumulative audio when you quit.
 
 ---
 
-## Demo & Useful Links
+## Useful Links
 
+- **Medium Blog** [VoxVoyage on Medium](https://buzzgrewal.medium.com/voxvoyage-interactive-storytelling-powered-by-zonos-ai-crafting-your-audio-adventures-with-6b1bdbfc7ea9)
 - **Zonos AI GitHub Repository:** [https://github.com/Zyphra/Zonos](https://github.com/Zyphra/Zonos)
-- **Zonos AI Playground:** [https://playground.zyphra.com/audio](https://playground.zyphra.com/audio)
-- **Gradio Documentation:** [https://gradio.app/get_started](https://gradio.app/get_started)
-- **eSpeak NG:** [http://espeak.sourceforge.net/](http://espeak.sourceforge.net/)
+
 
 ---
 
@@ -172,8 +184,10 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 
 For questions, ideas, or feedback, feel free to reach out:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub Issues:** [https://github.com/yourusername/VoxVoyage/issues](https://github.com/yourusername/VoxVoyage/issues)
+- **Email:** [buzzgrewal@gmail.com](mailto:buzzgrewal@gmail.com)
+- **Linkedin:** [Buzz on Linkedin](https://www.linkedin.com/in/abdullahgrewal/)
+- **Github:** [Buzz on Github](https://github.com/buzzgrewal/)
+- **GitHub Issues:** [https://github.com/buzzgrewal/VoxVoyage/issues](https://github.com/buzzgrewal/VoxVoyage/issues)
 
 ---
 
